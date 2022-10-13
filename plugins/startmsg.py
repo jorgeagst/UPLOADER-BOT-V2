@@ -26,7 +26,7 @@ You can now send a new URL."""
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "𝘛𝘏𝘈𝘕𝘒𝘚 𝘍𝘖𝘙 𝘜𝘚𝘐𝘕𝘎 𝘔𝘌 🥰\n\n@NT_BOT_CHANNEL"
     SAVED_CUSTOM_THUMB_NAIL = "Save Your Thumbnail ✅."
     DEL_ETED_CUSTOM_THUMB_NAIL = " Delete Your Thumbnail ✅."
-    CUSTOM_CAPTION_UL_FILE = "{}"
+    CUSTOM_CAPTION_UL_FILE = "<b>{}</b>"
     NO_VOID_FORMAT_FOUND = """<b>I think you have entered an unaccessible url or a private url.</b>
 <i>Go check if you can access the content in the url from your browser first!</i>
 
